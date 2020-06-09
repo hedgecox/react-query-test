@@ -1,6 +1,6 @@
 # React Query
 
-Basic application to test React Query with Typescript.
+Basic application to test React Query with Typescript. Testing use of both `usePaginatedQuery` and `useInfiniteQuery`
 
 Project Uses:
 
